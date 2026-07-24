@@ -26,7 +26,7 @@ I am drawn to connecting mathematics behind biological systems, through Python s
 
 <h2>YouTube Videos of Science Communication Journey</h2>
 
-- [Active Directory Home Lab Tutorial](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [To be experimented]()
 
 <!--
 <h2>Connect with me</h2>
