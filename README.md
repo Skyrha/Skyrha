@@ -1,6 +1,6 @@
 <h1>Dear reader, my name is Skyrha! <br/><a href="https://github.com/Skyrha">Programmer</a>, <a href="https://www.linkedin.com/">Future Biophysicist</a>, <a href="https://www.youtube.com/">YouTuber</a></h1>
 
-I am drawn to connecting mathematics behind biological systems, through Python simulations and research-inspired projects. 
+I am drawn to exploring mathematics behind biological systems and sharing my thoughs and experimentations through Python simulations and research-inspired projects. 
 
 <h2>"From IB Student to Undergraduate" Projects:</h2>
 
