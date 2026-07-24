@@ -35,8 +35,8 @@ I am drawn to connecting mathematics behind biological systems, through Python s
 [<img align="left" alt="Skyrha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [youtube]: https://www.youtube.com/@SkyrhaSci
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[instagram]: https://www.instagram.com/
+[linkedin]: https://linkedin.com/in/
 
 <!--
 **Skyrha/Skyrha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
