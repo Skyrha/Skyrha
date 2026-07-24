@@ -11,10 +11,11 @@ I am drawn to connecting mathematics behind biological systems, through Python s
   
   - [Active Directory Home Lab](https://github.com/Skyrha/Active-Directory-Lab/tree/main)
 
-- <b>Scientific Experiments and BioModels Python Projects</b>
-(Where I document experimentations of applied mathematics to real world obsvations)
+- <b>Scientific Notebooks and BioModels Python Projects</b>
+(Where I document my trials, errors and outcomes of applied mathematics experimentations to model real world observations that lead to YouTube videos later on)
 
-  - [Computational Experiment on Coffee Stains]()
+  - [Computational Experiment on Coffee Stains and Biological Diffusion]()
+  - [Protein Folding Toy Models]()
 
 - <b>Research Paper Reproduction Series</b>
 (Where each repository includes: citation, simplified equations, Python implementation, explanation of assumptions, what I changed)
