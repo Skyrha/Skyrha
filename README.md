@@ -28,6 +28,7 @@ I am drawn to connecting mathematics behind biological systems, through Python s
 
 - [Active Directory Home Lab Tutorial](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
+<!--
 <h2>Connect with me</h2>
 
 [<img align="left" alt="Skyrha | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -36,7 +37,8 @@ I am drawn to connecting mathematics behind biological systems, through Python s
 
 [youtube]: https://www.youtube.com/@SkyrhaSci
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://linkedin.com/in/ 
+-->
 
 <!--
 **Skyrha/Skyrha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
