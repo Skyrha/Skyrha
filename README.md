@@ -2,7 +2,7 @@
 
 <h2>"From IB Student to Biophysicist" Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Home Lab](https://github.com/Skyrha/Active-Directory-Lab/tree/main)
 - <b>Python Projects</b>
   - [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)
 
